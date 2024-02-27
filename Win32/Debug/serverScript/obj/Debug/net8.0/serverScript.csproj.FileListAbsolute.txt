@@ -1,0 +1,15 @@
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\bin\Debug\net8.0\serverScript.exe
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\bin\Debug\net8.0\serverScript.deps.json
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\bin\Debug\net8.0\serverScript.runtimeconfig.json
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\bin\Debug\net8.0\serverScript.dll
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\bin\Debug\net8.0\serverScript.pdb
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.AssemblyInfoInputs.cache
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.AssemblyInfo.cs
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.csproj.CoreCompileInputs.cache
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.sourcelink.json
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.dll
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\refint\serverScript.dll
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.pdb
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\serverScript.genruntimeconfig.cache
+C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\serverScript\obj\Debug\net8.0\ref\serverScript.dll

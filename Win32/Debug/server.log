@@ -1,0 +1,9 @@
+[27-Feb-24 3:27:07 PM] Server is listening...
+[27-Feb-24 3:38:35 PM] Server is listening...
+[27-Feb-24 3:38:45 PM] Client connected: 53052
+[27-Feb-24 3:38:45 PM] Received: marketplace
+[27-Feb-24 3:38:45 PM] An error occurred: Could not find file 'C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\marketplace.csv'.
+[27-Feb-24 3:38:45 PM] Client connected: 53053
+[27-Feb-24 3:38:45 PM] Received: marketplace
+[27-Feb-24 3:38:45 PM] An error occurred: Could not find file 'C:\Users\Philip Gricius\Desktop\Programming\ITerium\server\Win32\Debug\marketplace.csv'.
+[27-Feb-24 7:59:01 PM] Server is listening...
